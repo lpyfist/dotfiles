@@ -1,9 +1,11 @@
-*.font:IBM Plex mono:size=13:style=italic
-emacs.font: IBM Plex mono:size=18:style=regular
+*.font:iosevka hopf:size=12.7:style=medium
 
-urxvt.font: xft:IBM Plex mono:size=12.2:style=regular, xft:symbola:size=12.2
-urxvt.italicFont: xft:IBM Plex mono:size=12.2:style=italic
-urxvt.boldFont: xft:IBM Plex mono:size=12.2:style=bold
+dmenu.font:manrope:size=12:style=regular:antialias=true:autohint=true
+emacs.font: iosevka hopf:size=18:style=regular
+
+urxvt.font: xft:iosevka hopf:size=12.7:style=regular, xft:symbola:size=12.7
+urxvt.italicFont: xft:iosevka hopf:size=12.7:style=italic
+urxvt.boldFont: xft:iosevka hopf:size=12.7:style=bold
 
 /* colors */
 #include "/home/lpy/.themes/seashell"

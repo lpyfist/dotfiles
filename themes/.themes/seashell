@@ -1,4 +1,4 @@
-#define base00 #fcfcfc
+#define base00 #fffff0
 #define base01 #e4d9d3
 #define base02 #bab0ac
 #define base03 #afa39e
@@ -8,8 +8,8 @@
 #define base07 #161b1d
 #define base08 #d22d72
 #define base09 #c53a74
-#define base0A #8a8a0f
-#define base0B #568c3b
+#define base0A #aa927b
+#define base0B #8caa83
 #define base0C #6fa7b2
 #define base0D #257fad
 #define base0E #944ea2

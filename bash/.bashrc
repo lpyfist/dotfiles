@@ -1,6 +1,6 @@
 export BROWSER="/bin/firefox"
 export EDITOR="/bin/nvim"
-export PASTEL_COLOR_MODE=8bit
+export PASTEL_COLOR_MODE=24bit
 export PERL_DESTRUCT_LEVEL=2
 export HISTSIZE=1000
 export GPG_TTY

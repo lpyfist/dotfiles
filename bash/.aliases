@@ -14,6 +14,7 @@ alias csi='rlwrap csi'
 alias beets='beet import ~/downloads/music'
 alias sage='doas docker run -it sagemath/sagemath:latest'
 alias weechat='pass -c weechat && weechat'
+alias toxic='pass -c tox && toxic'
 
 # fm
 alias ls='ls --color=auto'

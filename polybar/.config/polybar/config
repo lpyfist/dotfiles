@@ -88,7 +88,7 @@ format-discharging  = <ramp-capacity>   <label-discharging>
 
 label-charging = %percentage%%
 label-discharging = %percentage%%
-label-full = full
+label-full = %{F#8caa83}F
 
 ramp-capacity-0 = 
 ramp-capacity-1 = 

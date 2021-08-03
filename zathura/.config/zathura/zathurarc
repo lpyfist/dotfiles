@@ -15,11 +15,11 @@ map [fullscreen] <C-i> jumplist forward
 
 map [index] q quit
 
-set font "victor mono 12.2"
+set font "manrope 11.7"
 set guioptions n
 
 # colors
-set default-bg  "#1e1e1e"
+set default-bg  "#faf8f6"
 
 set statusbar-fg "#ffffff"
 set statusbar-bg "#434343"
@@ -27,10 +27,10 @@ set statusbar-bg "#434343"
 set inputbar-bg "#fafafa"
 set inputbar-fg "#0f0f0f"
 
-set index-bg "#1e1e1e"
+set index-bg "#faf8f6"
 set index-fg "#474445"
-set index-active-bg "#434343"
-set index-active-fg "#abbaba"
+set index-active-bg "#8caa83"
+set index-active-fg "#faf8f6"
 
 set completion-highlight-fg "#0f0f0f"
 set completion-highlight-bg "#fafafa"
@@ -41,13 +41,13 @@ set highlight-color "#89ddff"
 set highlight-active-color "#7c9f4b"
 
 set notification-fg "#ffffff"
-set notification-bg "#1e1e1e"
+set notification-bg "#404040"
 
-set recolor-lightcolor "#1e1e1e"
-set recolor-darkcolor  "#abbaba"
+set recolor-lightcolor "#fff5e0"
+set recolor-darkcolor  "#000000"
 
-set notification-error-bg "#1e1e1e"
+set notification-error-bg "#faf8f6"
 set notification-error-fg "#e15483"
 
-set notification-warning-bg "#1e1e1e"
+set notification-warning-bg "#faf8f6"
 set notification-warning-fg "#e15483"

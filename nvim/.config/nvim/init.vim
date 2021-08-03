@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/plugged')
  Plug 'godlygeek/tabular'
  Plug 'dense-analysis/ale'
  Plug 'tpope/vim-rsi'
+ Plug 'jnurmine/Zenburn'
 
  Plug 'neovimhaskell/haskell-vim'
  Plug 'plasticboy/vim-markdown'
