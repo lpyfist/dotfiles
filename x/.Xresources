@@ -1,11 +1,11 @@
-*.font:iosevka hopf:size=12.7:style=medium
+*.font:jetbrains mono:size=12.7:style=medium
 
 dmenu.font:manrope:size=12:style=regular:antialias=true:autohint=true
-emacs.font: iosevka hopf:size=18:style=regular
+emacs.font: jetbrains mono:size=18:style=regular
 
-urxvt.font: xft:iosevka hopf:size=12.7:style=regular, xft:symbola:size=12.7
-urxvt.italicFont: xft:iosevka hopf:size=12.7:style=italic
-urxvt.boldFont: xft:iosevka hopf:size=12.7:style=bold
+urxvt.font: xft:jetbrains mono:size=12.7:style=medium, xft:symbola:size=12.7
+urxvt.italicFont: xft:jetbrains mono:size=12.7:style=italic
+urxvt.boldFont: xft:jetbrains mono:size=12.7:style=bold
 
 /* colors */
 #include "/home/lpy/.themes/seashell"
