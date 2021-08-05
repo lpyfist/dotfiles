@@ -15,8 +15,12 @@ alt + i
     /home/lpy/bin/les
 
 # info script
-super +i
+super + i
     /home/lpy/bin/inf
+
+# take scrot
+super + s
+    "$HOME"/bin/sc
 
 # make sxhkd reload its configuration files:
 super + Escape

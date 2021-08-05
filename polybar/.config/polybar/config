@@ -29,7 +29,7 @@ module-margin-left = 2
 module-margin-right = 2
 
 font-0 = Fantasque Sans Mono NF:size=14
-font-1 = Go medium:size=13
+font-1 = SF Compact Display:style=medium:size=13
 
 modules-left = time battery ewmh 
 
